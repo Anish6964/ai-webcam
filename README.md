@@ -38,6 +38,4 @@ This project captures an image from a webcam stream, analyzes it using OpenAI GP
 
 The script will capture an image from the webcam stream every 20 seconds, analyze it using OpenAI, and read out the description.
 
-## License
 
-This project is licensed under the MIT License.
