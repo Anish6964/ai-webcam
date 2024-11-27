@@ -17,7 +17,7 @@ This project captures an image from a webcam stream, analyzes it using OpenAI GP
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/image-analyzer.git
+    git clone https://github.com/anish6964/ai-webcam.git
     cd image-analyzer
     ```
 
